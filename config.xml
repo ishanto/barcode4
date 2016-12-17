@@ -33,6 +33,6 @@
     </feature>
 
     <!-- phonegap directives -->
-    <gap:plugin name="cordova-plugins-camera" />
-	<gap:plugin name="cordova-plugins-media-capture" />
+    <gap:plugin name="cordova-plugin-camera" />
+	<gap:plugin name="cordova-plugin-media-capture" />
 </widget>
